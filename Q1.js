@@ -21,4 +21,6 @@
 
 //Sample Output 3:
 //Zero
+const age= 50
+
 
