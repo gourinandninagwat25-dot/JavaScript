@@ -21,6 +21,6 @@
 
 //Sample Output 3:
 //Zero
-const age= 50
+const age = 50;
 
 
